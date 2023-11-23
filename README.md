@@ -1,1 +1,3 @@
-# quotify-kotlin
+# Quotify
+
+Aplicativo de frases
